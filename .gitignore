@@ -1,0 +1,9 @@
+# Go
+*.exe
+*.dll
+bin/
+vendor/
+# IDE
+.vscode/
+.idea/
+*.swp
